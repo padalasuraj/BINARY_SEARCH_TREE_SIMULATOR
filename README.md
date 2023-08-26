@@ -1,6 +1,6 @@
 # Binary Search Tree (BST) Simulator Project
 
-Welcome to the Binary Search Tree (BST) Simulator project! This is a simple educational project aimed at helping you understand and visualize the operations of a Binary Search Tree, a fundamental data structure in computer science.
+Welcome to the Binary Search Tree (BST) Simulator project! This is a simple educational project aimed at helping you understand and visualize the operations  of a Binary Search Tree, a fundamental data structure in computer science.
 
 ## Project Overview
 
