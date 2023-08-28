@@ -16,7 +16,6 @@ The simulator allows you to interact with a virtual Binary Search Tree, visualiz
 
 - **Search:** Test the search functionality by looking for a specific value in the BST and observing the steps taken to find it.
 
-- **Deletion:** Explore how nodes are deleted from the tree while ensuring that the binary search tree property is preserved.
 
 - **Traversal:** Experience different tree traversal algorithms, such as in-order, pre-order, and post-order traversal, to understand how they work and what order they visit the nodes.
 
